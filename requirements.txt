@@ -1,0 +1,7 @@
+gunicorn
+flask
+PyYAML
+pydub
+torch
+torchvision
+torchaudio
